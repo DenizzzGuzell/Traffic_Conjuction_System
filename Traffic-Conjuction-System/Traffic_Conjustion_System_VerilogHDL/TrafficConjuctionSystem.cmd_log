@@ -1,0 +1,35 @@
+xst -intstyle ise -ifn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.xst" -ofn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.syr" 
+xst -intstyle ise -ifn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.xst" -ofn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.syr" 
+xst -intstyle ise -ifn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.xst" -ofn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.syr" 
+xst -intstyle ise -ifn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.xst" -ofn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 TrafficConjuctionSystem.ngc TrafficConjuctionSystem.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TrafficConjuctionSystem_map.ncd TrafficConjuctionSystem.ngd TrafficConjuctionSystem.pcf 
+par -w -intstyle ise -ol high -mt off TrafficConjuctionSystem_map.ncd TrafficConjuctionSystem.ncd TrafficConjuctionSystem.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TrafficConjuctionSystem.twx TrafficConjuctionSystem.ncd -o TrafficConjuctionSystem.twr TrafficConjuctionSystem.pcf 
+xst -intstyle ise -ifn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.xst" -ofn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 TrafficConjuctionSystem.ngc TrafficConjuctionSystem.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TrafficConjuctionSystem_map.ncd TrafficConjuctionSystem.ngd TrafficConjuctionSystem.pcf 
+par -w -intstyle ise -ol high -mt off TrafficConjuctionSystem_map.ncd TrafficConjuctionSystem.ncd TrafficConjuctionSystem.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TrafficConjuctionSystem.twx TrafficConjuctionSystem.ncd -o TrafficConjuctionSystem.twr TrafficConjuctionSystem.pcf 
+xst -intstyle ise -ifn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.xst" -ofn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 TrafficConjuctionSystem.ngc TrafficConjuctionSystem.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TrafficConjuctionSystem_map.ncd TrafficConjuctionSystem.ngd TrafficConjuctionSystem.pcf 
+par -w -intstyle ise -ol high -mt off TrafficConjuctionSystem_map.ncd TrafficConjuctionSystem.ncd TrafficConjuctionSystem.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TrafficConjuctionSystem.twx TrafficConjuctionSystem.ncd -o TrafficConjuctionSystem.twr TrafficConjuctionSystem.pcf 
+xst -intstyle ise -ifn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.xst" -ofn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 TrafficConjuctionSystem.ngc TrafficConjuctionSystem.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TrafficConjuctionSystem_map.ncd TrafficConjuctionSystem.ngd TrafficConjuctionSystem.pcf 
+par -w -intstyle ise -ol high -mt off TrafficConjuctionSystem_map.ncd TrafficConjuctionSystem.ncd TrafficConjuctionSystem.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TrafficConjuctionSystem.twx TrafficConjuctionSystem.ncd -o TrafficConjuctionSystem.twr TrafficConjuctionSystem.pcf 
+xst -intstyle ise -ifn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.xst" -ofn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 TrafficConjuctionSystem.ngc TrafficConjuctionSystem.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TrafficConjuctionSystem_map.ncd TrafficConjuctionSystem.ngd TrafficConjuctionSystem.pcf 
+par -w -intstyle ise -ol high -mt off TrafficConjuctionSystem_map.ncd TrafficConjuctionSystem.ncd TrafficConjuctionSystem.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TrafficConjuctionSystem.twx TrafficConjuctionSystem.ncd -o TrafficConjuctionSystem.twr TrafficConjuctionSystem.pcf 
+xst -intstyle ise -ifn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.xst" -ofn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.syr" 
+xst -intstyle ise -ifn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.xst" -ofn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.syr" 
+xst -intstyle ise -ifn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.xst" -ofn "C:/f/Traffic_Conjustion_System_VerilogHDL/TrafficConjuctionSystem.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 TrafficConjuctionSystem.ngc TrafficConjuctionSystem.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TrafficConjuctionSystem_map.ncd TrafficConjuctionSystem.ngd TrafficConjuctionSystem.pcf 
+par -w -intstyle ise -ol high -mt off TrafficConjuctionSystem_map.ncd TrafficConjuctionSystem.ncd TrafficConjuctionSystem.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TrafficConjuctionSystem.twx TrafficConjuctionSystem.ncd -o TrafficConjuctionSystem.twr TrafficConjuctionSystem.pcf 

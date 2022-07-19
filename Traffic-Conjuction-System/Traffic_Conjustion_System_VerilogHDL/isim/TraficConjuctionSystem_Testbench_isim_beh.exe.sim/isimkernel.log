@@ -1,0 +1,29 @@
+Command line:
+   TraficConjuctionSystem_Testbench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49660
+
+Mon Jan 31 13:06:57 2022
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5150.59 Meg
+
+ Total Signals          : 104
+ Total Nets             : 75
+ Total Signal Drivers   : 67
+ Total Blocks           : 15
+ Total Primitive Blocks : 13
+ Total Processes        : 82
+ Total Traceable Variables  : 41
+ Total Scalar Nets and Variables : 189
+Total Line Count : 612
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 5150.59 Meg
+
+Mon Jan 31 13:07:13 2022
+

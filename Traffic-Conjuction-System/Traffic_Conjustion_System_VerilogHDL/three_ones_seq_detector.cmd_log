@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/f/Traffic_Conjustion_System_VerilogHDL/three_ones_seq_detector.xst" -ofn "C:/f/Traffic_Conjustion_System_VerilogHDL/three_ones_seq_detector.syr" 

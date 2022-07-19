@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">TrafficConjuctionSystem</arg>&gt;: instances &lt;<arg fmt="%s" index="2">D11</arg>&gt;, &lt;<arg fmt="%s" index="3">D8</arg>&gt; of unit &lt;<arg fmt="%s" index="4">D_ff</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">TrafficConjuctionSystem</arg>&gt;: instances &lt;<arg fmt="%s" index="2">D11</arg>&gt;, &lt;<arg fmt="%s" index="3">D5</arg>&gt; of unit &lt;<arg fmt="%s" index="4">D_ff</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">TrafficConjuctionSystem</arg>&gt;: instances &lt;<arg fmt="%s" index="2">D11</arg>&gt;, &lt;<arg fmt="%s" index="3">D2</arg>&gt; of unit &lt;<arg fmt="%s" index="4">D_ff</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+</messages>
+
