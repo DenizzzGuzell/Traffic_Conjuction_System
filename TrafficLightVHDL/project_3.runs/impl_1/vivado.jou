@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.1 (64-bit)
+# SW Build 1538259 on Fri Apr  8 15:45:27 MDT 2016
+# IP Build 1537824 on Fri Apr  8 04:28:57 MDT 2016
+# Start of session at: Fri Aug 12 09:51:48 2022
+# Process ID: 1112
+# Current directory: C:/Users/denzz/Desktop/DERS/VHDL/project_3/project_3.runs/impl_1
+# Command line: vivado.exe -log trafficlight.vdi -applog -messageDb vivado.pb -mode batch -source trafficlight.tcl -notrace
+# Log file: C:/Users/denzz/Desktop/DERS/VHDL/project_3/project_3.runs/impl_1/trafficlight.vdi
+# Journal file: C:/Users/denzz/Desktop/DERS/VHDL/project_3/project_3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source trafficlight.tcl -notrace

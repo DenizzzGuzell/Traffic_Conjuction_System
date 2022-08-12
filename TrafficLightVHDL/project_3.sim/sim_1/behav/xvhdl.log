@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/denzz/Desktop/DERS/VHDL/project_3/project_3.srcs/sources_1/new/trafficlight.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity trafficlight
+WARNING: [VRFC 10-1256] possible infinite loop; process does not have a wait statement [C:/Users/denzz/Desktop/DERS/VHDL/project_3/project_3.srcs/sources_1/new/trafficlight.vhd:173]
+WARNING: [VRFC 10-1256] possible infinite loop; process does not have a wait statement [C:/Users/denzz/Desktop/DERS/VHDL/project_3/project_3.srcs/sources_1/new/trafficlight.vhd:187]
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/denzz/Desktop/DERS/VHDL/project_3/project_3.srcs/sim_1/new/tb_trafficlight.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_trafficlight
